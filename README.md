@@ -3,6 +3,8 @@
 A lightweight and responsive music player application built with [your tech stack, e.g., HTML, CSS, JavaScript].  
 It allows users to play, pause, skip, and manage their favorite tracks with a clean and modern interface.
 
+Here is the website link;
+https://angelinnpraisy-web.github.io/sinkmusic/
 ---
 
 ## ✨ Features
